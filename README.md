@@ -1,0 +1,2 @@
+# springcloudtest
+springcloudconfig settting
